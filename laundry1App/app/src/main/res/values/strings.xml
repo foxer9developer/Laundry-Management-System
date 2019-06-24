@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Laundry App</string>
+    <string name="email">Email</string>
+    <string name="image">image</string>
+    <string name="Name">Name</string>
+    <string name="hindi_name">हिंदी नाम</string>
+    <string name="price">₹ 0.0</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="proceed_to_checkout">Proceed To Checkout</string>
+    <string name="address">Address</string>
+    <string name="date">Date</string>
+    <string name="confirm">Confirm</string>
+    <string name="items">Items</string>
+    <string name="completed">Completed</string>
+    <string name="icon">icon</string>
+    <string name="organization">Apollo Laundry</string>
+    <string name="developer">Developed By Dhruva Agarwal, NIIT University</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="no_orders_available">No Orders Available</string>
+    <string name="user">user</string>
+    <string name="no_pending_orders">No Pending Orders</string>
+    <string name="no_completed_orders">No Completed Orders</string>
+    <string name="no_users_available">No Users Available</string>
+    <string name="complete">Complete</string>
+    <string name="all_orders">All Orders</string>
+    <string name="completed_orders">Completed Orders</string>
+    <string name="pending_orders">Pending Orders</string>
+    <string name="all_users">All Users</string>
+    <string name="all_products">Products</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="fruits">Fruits</string>
+    <string name="home">Home</string>
+    <string name="users">Users</string>
+    <string name="products">Products</string>
+    <string name="no_products_available">No Products Available</string>
+    <string name="no_fruits_available">No Fruits Available</string>
+    <string name="no_vegetables_available">No Vegetables Available</string>
+    <string name="previous_orders">Previous Orders</string>
+    <string name="ongoing_orders">Ongoing Orders</string>
+    <string name="my_account">My Account</string>
+    <string name="my_orders">My Orders</string>
+    <string name="name">Name</string>
+    <string name="quantity_of_product">Quantity of Product</string>
+    <string name="price_of_product">Price of Product</string>
+    <string name="quantity_unit">Quantity Unit</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="delete_my_account">Delete My Account</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="update">Update</string>
+    <string name="delete">delete</string>
+    <string name="quantity">Quantity</string>
+    <string name="service">Service</string>
+    <string name="cart_is_empty">Cart Is Empty</string>
+    <string name="added">Added</string>
+
+
+
+    <string-array name="Services">
+        <item>Select a type</item>
+        <item>Wash</item>
+        <item>Laundry</item>
+        <item>Steam Press</item>
+        <item>Wash + Steam Press</item>
+
+    </string-array>
+
+    <string-array name="Category">
+        <item>Select a type</item>
+        <item>Wash and Press</item>
+        <item>Dry Clean</item>
+    </string-array>
+</resources>
